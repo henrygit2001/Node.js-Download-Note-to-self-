@@ -14,12 +14,11 @@ b)Delete the active processes the port is currently listening to by going to cmd
    killstat -PID = "<the ID>"
 
 If given the following error:
-"function App() {
-return (
+//"function App() {
+//return (
 <div className="App">
-<header>Hello world</header>
-<a href="https://www.qries.cm/"><img alt="Qries" src="https://www.qries.com/images/banner_logo.pg" width= "150" height="70"></a>
-</div>
+//<a href="https://www.qries.cm/"><img alt="Qries" src="https://www.qries.com/images/banner_logo.pg" width= "150" height="70"></a>//
+//</div>//
 );
 }
 export default App;"
