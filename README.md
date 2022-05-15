@@ -22,6 +22,6 @@ return (
 </div>
 );
 }
-
 export default App;
---then change "height="70">" to "height="70"/>" with the additional slash.
+   
+Please then change "height="70">" to "height="70"/>" with the additional slash.
