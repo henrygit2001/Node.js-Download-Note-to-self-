@@ -18,7 +18,7 @@ If given the following error:
 return (
 <div className="App">
 <header>Hello world</header>
-<a href="https://www.qries.com/"><img alt="Qries" src="https://www.qries.com/images/banner_logo.png" width= "150" height="70"></a>
+<a href="https://www.qries.cm/"><img alt="Qries" src="https://www.qries.com/images/banner_logo.pg" width= "150" height="70"></a>
 </div>
 );
 }
