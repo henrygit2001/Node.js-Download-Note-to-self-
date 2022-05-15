@@ -14,7 +14,7 @@ b)Delete the active processes the port is currently listening to by going to cmd
    killstat -PID = "<the ID>"
 
 If given the following error:
-function App() {
+"function App() {
 return (
 <div className="App">
 <header>Hello world</header>
@@ -22,6 +22,6 @@ return (
 </div>
 );
 }
-export default App;
+export default App;"
    
 Please then change "height="70">" to "height="70"/>" with the additional slash.
